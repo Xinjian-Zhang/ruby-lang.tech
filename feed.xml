@@ -1,0 +1,49 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://ruby-lang.tech//</id>
+  <title>Ruby入门</title>
+  <subtitle>Ruby入门 - ruby-lang.tech - Ruby编程 · Rails开发 · 算法题解 · 知识分享</subtitle>
+  <updated>2025-05-12T17:24:37+08:00</updated>
+  <author>
+    <name>Xinjian Zhang</name>
+    <uri>https://ruby-lang.tech//</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="https://ruby-lang.tech//feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="zh-CN"
+    href="https://ruby-lang.tech//"/>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <rights> © 2025 Xinjian Zhang </rights>
+  <icon>//assets/img/favicons/favicon.ico</icon>
+  <logo>//assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Ruby 初探：认识 Ruby 与环境搭建</title>
+    <link href="https://ruby-lang.tech//posts/Ruby-01.01/" rel="alternate" type="text/html" title="Ruby 初探：认识 Ruby 与环境搭建" />
+    <published>2025-05-01T08:00:00+08:00</published>
+  
+    <updated>2025-05-01T08:00:00+08:00</updated>
+  
+    <id>https://ruby-lang.tech//posts/Ruby-01.01/</id>
+    <content type="text/html" src="https://ruby-lang.tech//posts/Ruby-01.01/" />
+    <author>
+      <name>Xinjian Zhang</name>
+    </author>
+
+  
+    
+    <category term="Ruby" />
+    
+    <category term="1-Ruby 初识与环境搭建" />
+    
+  
+
+  <summary>Ruby 初探：认识 Ruby 与环境搭建  欢迎来到 Ruby 的世界！如果你是编程小白，或者想学习一门优雅且功能强大的语言，那么 Ruby 绝对是一个不错的选择。本文将带你快速了解 Ruby 是什么，并手把手教你如何搭建本地开发环境，帮助你顺利迈出编程第一步。    目录     什么是 Ruby？语言特色与应用场景   环境搭建：安装 Ruby            RVM（Ruby Version Manager）       rbenv       Windows 安装器（RubyInstaller）           验证安装：命令行与 IRB   推荐开发工具   实践示例：第一个 Ruby 脚本   常见问题 &amp;amp;amp; 小贴士   下一步学习建议     什么是 Ruby？语言特色与应用场景  Ruby 由松本行弘（Yukihiro “Matz” Matsumot...</summary>
+
+  </entry>
+
+</feed>
+
+
