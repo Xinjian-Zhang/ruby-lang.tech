@@ -1,17 +1,17 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>https://ruby-lang.tech//</id>
+  <id>http://localhost:4000/</id>
   <title>Ruby入门</title>
   <subtitle>Ruby入门 - ruby-lang.tech - Ruby编程 · Rails开发 · 算法题解 · 知识分享</subtitle>
-  <updated>2025-05-12T17:41:34+08:00</updated>
+  <updated>2025-05-12T17:49:46+08:00</updated>
   <author>
     <name>Xinjian Zhang</name>
-    <uri>https://ruby-lang.tech//</uri>
+    <uri>http://localhost:4000/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="https://ruby-lang.tech//feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="zh-CN"
-    href="https://ruby-lang.tech//"/>
+    href="http://localhost:4000/"/>
   <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
   <rights> © 2025 Xinjian Zhang </rights>
   <icon>//assets/img/favicons/favicon.ico</icon>
@@ -21,13 +21,13 @@
   
   <entry>
     <title>Ruby 初探：认识 Ruby 与环境搭建</title>
-    <link href="https://ruby-lang.tech//posts/Ruby-01.01/" rel="alternate" type="text/html" title="Ruby 初探：认识 Ruby 与环境搭建" />
+    <link href="http://localhost:4000/posts/Ruby-01.01/" rel="alternate" type="text/html" title="Ruby 初探：认识 Ruby 与环境搭建" />
     <published>2025-05-01T08:00:00+08:00</published>
   
     <updated>2025-05-01T08:00:00+08:00</updated>
   
-    <id>https://ruby-lang.tech//posts/Ruby-01.01/</id>
-    <content type="text/html" src="https://ruby-lang.tech//posts/Ruby-01.01/" />
+    <id>http://localhost:4000/posts/Ruby-01.01/</id>
+    <content type="text/html" src="http://localhost:4000/posts/Ruby-01.01/" />
     <author>
       <name>Xinjian Zhang</name>
     </author>
